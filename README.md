@@ -1,5 +1,6 @@
-# Testes End-to-End com Cypress
+# Testes _end-to-end_ com Cypress
 
+TBD.
 In progress...
 
 
